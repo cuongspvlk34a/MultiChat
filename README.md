@@ -121,7 +121,7 @@ Mọi gói tin kết thúc bằng ký tự `\x04` để tránh TCP packet fragme
 ### Bước 1 — Clone dự án
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MultiChat.git
+git clone [https://github.com/YOUR_USERNAME/MultiChat.git](https://github.com/cuongspvlk34a/MultiChat)
 cd MultiChat
 ```
 
