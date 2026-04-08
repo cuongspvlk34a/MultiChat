@@ -1,0 +1,100 @@
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\obj\Debug\net8.0-windows\MultiChatClient.csproj.AssemblyReference.cache
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\obj\Debug\net8.0-windows\MultiChatClient.FrmClient.resources
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\obj\Debug\net8.0-windows\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\obj\Debug\net8.0-windows\MultiChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\obj\Debug\net8.0-windows\MultiChatClient.AssemblyInfoInputs.cache
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\obj\Debug\net8.0-windows\MultiChatClient.AssemblyInfo.cs
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\obj\Debug\net8.0-windows\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\bin\Debug\net8.0-windows\MultiChatClient.exe
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\bin\Debug\net8.0-windows\MultiChatClient.deps.json
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\bin\Debug\net8.0-windows\MultiChatClient.runtimeconfig.json
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\bin\Debug\net8.0-windows\MultiChatClient.dll
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\bin\Debug\net8.0-windows\MultiChatClient.pdb
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\bin\Debug\net8.0-windows\System.Speech.dll
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Speech.dll
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\obj\Debug\net8.0-windows\MultiCha.020DFD95.Up2Date
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\obj\Debug\net8.0-windows\MultiChatClient.dll
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\obj\Debug\net8.0-windows\refint\MultiChatClient.dll
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\obj\Debug\net8.0-windows\MultiChatClient.pdb
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\obj\Debug\net8.0-windows\MultiChatClient.genruntimeconfig.cache
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW\obj\Debug\net8.0-windows\ref\MultiChatClient.dll
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\obj\Debug\net8.0-windows\MultiChatClient.csproj.AssemblyReference.cache
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\obj\Debug\net8.0-windows\MultiChatClient.FrmClient.resources
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\obj\Debug\net8.0-windows\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\obj\Debug\net8.0-windows\MultiChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\obj\Debug\net8.0-windows\MultiChatClient.AssemblyInfoInputs.cache
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\obj\Debug\net8.0-windows\MultiChatClient.AssemblyInfo.cs
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\obj\Debug\net8.0-windows\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\obj\Debug\net8.0-windows\MultiChatClient.dll
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\obj\Debug\net8.0-windows\refint\MultiChatClient.dll
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\obj\Debug\net8.0-windows\MultiChatClient.pdb
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\bin\Debug\net8.0-windows\MultiChatClient.exe
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\bin\Debug\net8.0-windows\MultiChatClient.deps.json
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\bin\Debug\net8.0-windows\MultiChatClient.runtimeconfig.json
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\bin\Debug\net8.0-windows\MultiChatClient.dll
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\bin\Debug\net8.0-windows\MultiChatClient.pdb
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\bin\Debug\net8.0-windows\System.Speech.dll
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Speech.dll
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\obj\Debug\net8.0-windows\MultiCha.020DFD95.Up2Date
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\obj\Debug\net8.0-windows\MultiChatClient.genruntimeconfig.cache
+C:\Users\NGUYENCUONG\source\repos\MultiChatClient_NEW_FIXX\obj\Debug\net8.0-windows\ref\MultiChatClient.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.csproj.AssemblyReference.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.FrmClient.resources
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.csproj.GenerateResource.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.AssemblyInfoInputs.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.AssemblyInfo.cs
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.csproj.CoreCompileInputs.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\refint\MultiChatClient.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.pdb
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatClient.exe
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatClient.deps.json
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatClient.runtimeconfig.json
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatClient.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatClient.pdb
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\System.Speech.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Speech.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiCha.020DFD95.Up2Date
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.genruntimeconfig.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\ref\MultiChatClient.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatClient.exe
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatClient.deps.json
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatClient.runtimeconfig.json
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatClient.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatClient.pdb
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\System.Speech.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Speech.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.csproj.AssemblyReference.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.FrmClient.resources
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.csproj.GenerateResource.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.AssemblyInfoInputs.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.AssemblyInfo.cs
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.csproj.CoreCompileInputs.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiCha.020DFD95.Up2Date
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\refint\MultiChatClient.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.pdb
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatClient.genruntimeconfig.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatClient_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\ref\MultiChatClient.dll
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\bin\Debug\net8.0-windows\MultiChatClient.exe
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\bin\Debug\net8.0-windows\MultiChatClient.deps.json
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\bin\Debug\net8.0-windows\MultiChatClient.runtimeconfig.json
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\bin\Debug\net8.0-windows\MultiChatClient.dll
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\bin\Debug\net8.0-windows\MultiChatClient.pdb
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\bin\Debug\net8.0-windows\System.Speech.dll
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Speech.dll
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\obj\Debug\net8.0-windows\MultiChatClient.csproj.AssemblyReference.cache
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\obj\Debug\net8.0-windows\MultiChatClient.FrmClient.resources
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\obj\Debug\net8.0-windows\MultiChatClient.csproj.GenerateResource.cache
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\obj\Debug\net8.0-windows\MultiChatClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\obj\Debug\net8.0-windows\MultiChatClient.AssemblyInfoInputs.cache
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\obj\Debug\net8.0-windows\MultiChatClient.AssemblyInfo.cs
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\obj\Debug\net8.0-windows\MultiChatClient.csproj.CoreCompileInputs.cache
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\obj\Debug\net8.0-windows\MultiCha.020DFD95.Up2Date
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\obj\Debug\net8.0-windows\MultiChatClient.dll
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\obj\Debug\net8.0-windows\refint\MultiChatClient.dll
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\obj\Debug\net8.0-windows\MultiChatClient.pdb
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\obj\Debug\net8.0-windows\MultiChatClient.genruntimeconfig.cache
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatClient_FULL\obj\Debug\net8.0-windows\ref\MultiChatClient.dll
