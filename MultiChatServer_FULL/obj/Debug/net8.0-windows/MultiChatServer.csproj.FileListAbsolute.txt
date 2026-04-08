@@ -1,0 +1,64 @@
+C:\Users\NGUYENCUONG\source\repos\MultiChatServer_NEW\obj\Debug\net8.0-windows\MultiChatServer.FrmServer.resources
+C:\Users\NGUYENCUONG\source\repos\MultiChatServer_NEW\obj\Debug\net8.0-windows\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\NGUYENCUONG\source\repos\MultiChatServer_NEW\obj\Debug\net8.0-windows\MultiChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYENCUONG\source\repos\MultiChatServer_NEW\obj\Debug\net8.0-windows\MultiChatServer.AssemblyInfoInputs.cache
+C:\Users\NGUYENCUONG\source\repos\MultiChatServer_NEW\obj\Debug\net8.0-windows\MultiChatServer.AssemblyInfo.cs
+C:\Users\NGUYENCUONG\source\repos\MultiChatServer_NEW\obj\Debug\net8.0-windows\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\NGUYENCUONG\source\repos\MultiChatServer_NEW\bin\Debug\net8.0-windows\MultiChatServer.exe
+C:\Users\NGUYENCUONG\source\repos\MultiChatServer_NEW\bin\Debug\net8.0-windows\MultiChatServer.deps.json
+C:\Users\NGUYENCUONG\source\repos\MultiChatServer_NEW\bin\Debug\net8.0-windows\MultiChatServer.runtimeconfig.json
+C:\Users\NGUYENCUONG\source\repos\MultiChatServer_NEW\bin\Debug\net8.0-windows\MultiChatServer.dll
+C:\Users\NGUYENCUONG\source\repos\MultiChatServer_NEW\bin\Debug\net8.0-windows\MultiChatServer.pdb
+C:\Users\NGUYENCUONG\source\repos\MultiChatServer_NEW\obj\Debug\net8.0-windows\MultiChatServer.dll
+C:\Users\NGUYENCUONG\source\repos\MultiChatServer_NEW\obj\Debug\net8.0-windows\refint\MultiChatServer.dll
+C:\Users\NGUYENCUONG\source\repos\MultiChatServer_NEW\obj\Debug\net8.0-windows\MultiChatServer.pdb
+C:\Users\NGUYENCUONG\source\repos\MultiChatServer_NEW\obj\Debug\net8.0-windows\MultiChatServer.genruntimeconfig.cache
+C:\Users\NGUYENCUONG\source\repos\MultiChatServer_NEW\obj\Debug\net8.0-windows\ref\MultiChatServer.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.FrmServer.resources
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.csproj.GenerateResource.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.AssemblyInfoInputs.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.AssemblyInfo.cs
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.csproj.CoreCompileInputs.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\refint\MultiChatServer.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.pdb
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatServer.exe
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatServer.deps.json
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatServer.runtimeconfig.json
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatServer.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatServer.pdb
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.genruntimeconfig.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\ref\MultiChatServer.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatServer.exe
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatServer.deps.json
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatServer.runtimeconfig.json
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatServer.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\bin\Debug\net8.0-windows\MultiChatServer.pdb
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.FrmServer.resources
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.csproj.GenerateResource.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.AssemblyInfoInputs.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.AssemblyInfo.cs
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.csproj.CoreCompileInputs.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\refint\MultiChatServer.dll
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.pdb
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\MultiChatServer.genruntimeconfig.cache
+D:\FILE BAI TAP\Visual Studio\FULL_FIXX 3\FULL_FIXX\FULL_FIXX\MultiChatServer_NEW_FIXXBuoc6\obj\Debug\net8.0-windows\ref\MultiChatServer.dll
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatServer_FULL\bin\Debug\net8.0-windows\MultiChatServer.exe
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatServer_FULL\bin\Debug\net8.0-windows\MultiChatServer.deps.json
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatServer_FULL\bin\Debug\net8.0-windows\MultiChatServer.runtimeconfig.json
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatServer_FULL\bin\Debug\net8.0-windows\MultiChatServer.dll
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatServer_FULL\bin\Debug\net8.0-windows\MultiChatServer.pdb
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatServer_FULL\obj\Debug\net8.0-windows\MultiChatServer.FrmServer.resources
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatServer_FULL\obj\Debug\net8.0-windows\MultiChatServer.csproj.GenerateResource.cache
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatServer_FULL\obj\Debug\net8.0-windows\MultiChatServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatServer_FULL\obj\Debug\net8.0-windows\MultiChatServer.AssemblyInfoInputs.cache
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatServer_FULL\obj\Debug\net8.0-windows\MultiChatServer.AssemblyInfo.cs
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatServer_FULL\obj\Debug\net8.0-windows\MultiChatServer.csproj.CoreCompileInputs.cache
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatServer_FULL\obj\Debug\net8.0-windows\MultiChatServer.dll
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatServer_FULL\obj\Debug\net8.0-windows\refint\MultiChatServer.dll
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatServer_FULL\obj\Debug\net8.0-windows\MultiChatServer.pdb
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatServer_FULL\obj\Debug\net8.0-windows\MultiChatServer.genruntimeconfig.cache
+D:\FILE BAI TAP\Visual Studio\MultiChat_Full\FULL_FIXX\MultiChatServer_FULL\obj\Debug\net8.0-windows\ref\MultiChatServer.dll

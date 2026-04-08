@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "MultiChatServer.sln",
+    "projects": [
+      "MultiChatServer.csproj"
+    ]
+  }
+}
